@@ -5,6 +5,7 @@ I am a computer science major at the California State University of Fullerton an
 
 ## My GitHub Profile Link -> https://github.com/potatotatertoot
 
+
 ## My Favorite CPSC 120L Labs
 
 * Lab 3, Part 1 
